@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/jegyzet/elektro",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 3106,
+      "bodyTextHash": "6e14675dd5ff8cda2a524aa3935a0416c8f342a5b0a126e82610917adacdae47",
+      "bodyTextPrefix": "Kémia kompakt egyetemi alapjegyzet Táblázat Képlettár ANYAGSZERK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-elektro.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 2793,
+      "bodyTextHash": "7c33848ec2e603726bfc99db465e283f2c7d9fff3651b9e32670430b99933ad0",
+      "bodyTextPrefix": "Kémia kompakt 08 · 10 PERC Elektrokémia Elektródpotenciál, galvá",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-elektro-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/chapter-elektro.json"
+}

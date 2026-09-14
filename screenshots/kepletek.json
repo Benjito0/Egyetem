@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/kepletek",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 1162,
+      "bodyTextHash": "1adab3e9db05e38daaef67ff81be9ddc14537c7d472628fa6fa8053c117e191e",
+      "bodyTextPrefix": "Kémia kompakt egyetemi alapjegyzet Táblázat Képlettár ANYAGSZERK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/kepletek.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 849,
+      "bodyTextHash": "6d979f38a883d14cbc8d247ffce3388fcdafadee089af503352307d33f472643",
+      "bodyTextPrefix": "Kémia kompakt EGY LAPRA Képlettár A jegyzetben előforduló összef",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/kepletek-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/kepletek.json"
+}

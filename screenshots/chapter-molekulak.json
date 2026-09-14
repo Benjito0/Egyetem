@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/jegyzet/molekulak",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 4041,
+      "bodyTextHash": "94de6789fc8c257302b93e6f730fd4b081ea577f2ac18b5fc8e5779232ef3e93",
+      "bodyTextPrefix": "Kémia kompakt egyetemi alapjegyzet Táblázat Képlettár ANYAGSZERK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-molekulak.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 3728,
+      "bodyTextHash": "f82b4d283e86b1e9881121e106641d051aaac9c6411e6d0c282219ae7b991a7e",
+      "bodyTextPrefix": "Kémia kompakt 03 · 14 PERC Molekulák és kovalens kötés Kötésfajt",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/chapter-molekulak-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/chapter-molekulak.json"
+}

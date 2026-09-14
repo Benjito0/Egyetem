@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 1827,
+      "bodyTextHash": "5c5506a544e7d1dbf0bdd74539c9eb6a6f32d12d66529b2e083ce815f81129c7",
+      "bodyTextPrefix": "Kémia kompakt egyetemi alapjegyzet Táblázat Képlettár ANYAGSZERK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kémia kompakt",
+      "hasCanvas": false,
+      "bodyTextLen": 1514,
+      "bodyTextHash": "9d39bea816e2e0a27b121b118ffcac7afccd89531b4c02ef87a306a599136839",
+      "bodyTextPrefix": "Kémia kompakt ÁLTALÁNOS · SZERVETLEN · SZERVES Kémia, amire az e",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
